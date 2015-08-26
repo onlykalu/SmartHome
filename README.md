@@ -1,2 +1,2 @@
-# SmartHome
-Raspberry PI - Java - Home Automation 
+# Smart Home
+Raspberry PI / Ionic / Java - Home Automation 
